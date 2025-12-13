@@ -1,4 +1,4 @@
-name: home
+name: measure
 
 on:
   push:
@@ -18,17 +18,17 @@ jobs:
         with:
           path: ~/.npm
           key: ${{ hashFiles('**/package-lock.json') }}
-
-      - run: npm i
-      - run: node home.js
       - run: |
+          npm i
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions"
-          git add '*-home.json' -f
-          git commit -m "Update data"
           git fetch --all
+          git checkout origin/gh-pages home.json 2>/dev/null || true
+          node home.js
+          git add home.json -f
+          git commit -m "Update data"
           git checkout gh-pages
-          git checkout main '*-home.json'
-          git add '*.json' -f
-          git commit --amend -m "Update data"
+          git checkout main home.json
+          git add home.json -f
+          git commit --reset-author --amend -m "Update data"
           git push --force
