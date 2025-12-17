@@ -29,8 +29,13 @@ const puppeteer = require("puppeteer");
     scriptSize: getResourceSize("Script", trace),
     stylesheetSize: getResourceSize("Stylesheet", trace),
   });
-  console.log(data);
-  fs.writeFileSync("home.json", JSON.stringify(data, null, 2) + "\n");
+  const uniqueByVersion = Object.values(
+    data.reduce((acc, item) => {
+      acc[item.version] = item;
+      return acc;
+    }, {}),
+  );
+  fs.writeFileSync("home.json", JSON.stringify(uniqueByVersion, null, 2) + "\n");
 })();
 
 function getLoadTime({ traceEvents }) {
