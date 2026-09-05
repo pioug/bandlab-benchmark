@@ -1,0 +1,1194 @@
+[
+  {
+    "timestamp": "2025-12-15T07:52:30.054Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.398",
+    "loadTime": 1155192,
+    "scriptSize": 3197265,
+    "stylesheetSize": 1692989
+  },
+  {
+    "timestamp": "2025-12-16T05:49:35.742Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.399",
+    "loadTime": 1180633,
+    "scriptSize": 3199246,
+    "stylesheetSize": 1690818
+  },
+  {
+    "timestamp": "2025-12-17T05:59:16.401Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.400",
+    "loadTime": 1206217,
+    "scriptSize": 3202640,
+    "stylesheetSize": 1690821
+  },
+  {
+    "timestamp": "2025-12-18T06:01:20.132Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.401",
+    "loadTime": 1260250,
+    "scriptSize": 3201488,
+    "stylesheetSize": 1690934
+  },
+  {
+    "timestamp": "2025-12-19T06:18:06.211Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.402",
+    "loadTime": 1355480,
+    "scriptSize": 3201596,
+    "stylesheetSize": 1690181
+  },
+  {
+    "timestamp": "2025-12-22T06:32:32.362Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.403",
+    "loadTime": 1346923,
+    "scriptSize": 3202498,
+    "stylesheetSize": 1692416
+  },
+  {
+    "timestamp": "2025-12-23T07:02:11.881Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.404",
+    "loadTime": 1459881,
+    "scriptSize": 3258131,
+    "stylesheetSize": 1692074
+  },
+  {
+    "timestamp": "2025-12-29T02:08:03.948Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.405",
+    "loadTime": 1305425,
+    "scriptSize": 3257000,
+    "stylesheetSize": 1692571
+  },
+  {
+    "timestamp": "2025-12-29T09:57:46.335Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.406",
+    "loadTime": 1394297,
+    "scriptSize": 3251670,
+    "stylesheetSize": 1705157
+  },
+  {
+    "timestamp": "2025-12-31T04:26:14.742Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.407",
+    "loadTime": 1190588,
+    "scriptSize": 3252493,
+    "stylesheetSize": 1705157
+  },
+  {
+    "timestamp": "2026-01-05T06:57:29.096Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.408",
+    "loadTime": 1265148,
+    "scriptSize": 3255899,
+    "stylesheetSize": 1706405
+  },
+  {
+    "timestamp": "2026-01-06T06:43:22.783Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.409",
+    "loadTime": 1239423,
+    "scriptSize": 3256318,
+    "stylesheetSize": 1705493
+  },
+  {
+    "timestamp": "2026-01-07T05:56:32.192Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.410",
+    "loadTime": 1575374,
+    "scriptSize": 3256045,
+    "stylesheetSize": 1704839
+  },
+  {
+    "timestamp": "2026-01-08T06:21:47.306Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.411",
+    "loadTime": 1181797,
+    "scriptSize": 3259787,
+    "stylesheetSize": 1705259
+  },
+  {
+    "timestamp": "2026-01-09T07:51:20.841Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.412",
+    "loadTime": 1322885,
+    "scriptSize": 3332842,
+    "stylesheetSize": 1705436
+  },
+  {
+    "timestamp": "2026-01-12T04:56:51.026Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.413",
+    "loadTime": 1970752,
+    "scriptSize": 3333002,
+    "stylesheetSize": 1703673
+  },
+  {
+    "timestamp": "2026-01-13T08:07:06.179Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.414",
+    "loadTime": 2043523,
+    "scriptSize": 3333312,
+    "stylesheetSize": 1703428
+  },
+  {
+    "timestamp": "2026-01-14T01:11:57.248Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.415",
+    "loadTime": 2134621,
+    "scriptSize": 3333941,
+    "stylesheetSize": 1705090
+  },
+  {
+    "timestamp": "2026-01-15T05:47:22.576Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.416",
+    "loadTime": 2324748,
+    "scriptSize": 3334058,
+    "stylesheetSize": 1703475
+  },
+  {
+    "timestamp": "2026-01-16T07:01:42.897Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.417",
+    "loadTime": 1955758,
+    "scriptSize": 3334443,
+    "stylesheetSize": 1703939
+  },
+  {
+    "timestamp": "2026-01-19T07:33:58.518Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.418",
+    "loadTime": 2163753,
+    "scriptSize": 3333315,
+    "stylesheetSize": 1703086
+  },
+  {
+    "timestamp": "2026-01-20T05:18:29.517Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.419",
+    "loadTime": 2007907,
+    "scriptSize": 3335747,
+    "stylesheetSize": 1705730
+  },
+  {
+    "timestamp": "2026-01-21T07:53:45.387Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.420",
+    "loadTime": 2311490,
+    "scriptSize": 3290535,
+    "stylesheetSize": 1705295
+  },
+  {
+    "timestamp": "2026-01-22T06:31:58.059Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.421",
+    "loadTime": 2340403,
+    "scriptSize": 3161390,
+    "stylesheetSize": 1706811
+  },
+  {
+    "timestamp": "2026-01-23T08:05:37.575Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.422",
+    "loadTime": 1929094,
+    "scriptSize": 3162937,
+    "stylesheetSize": 1715716
+  },
+  {
+    "timestamp": "2026-01-26T08:52:43.791Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.423",
+    "loadTime": 2358086,
+    "scriptSize": 3162576,
+    "stylesheetSize": 1715701
+  },
+  {
+    "timestamp": "2026-01-27T06:15:51.862Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.424",
+    "loadTime": 2301812,
+    "scriptSize": 3161537,
+    "stylesheetSize": 1716080
+  },
+  {
+    "timestamp": "2026-01-28T07:16:52.254Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.425",
+    "loadTime": 2028478,
+    "scriptSize": 3161985,
+    "stylesheetSize": 1715799
+  },
+  {
+    "timestamp": "2026-01-29T06:13:44.338Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.426",
+    "loadTime": 2049923,
+    "scriptSize": 3159979,
+    "stylesheetSize": 1715106
+  },
+  {
+    "timestamp": "2026-01-30T06:24:35.722Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.427",
+    "loadTime": 2116442,
+    "scriptSize": 3162541,
+    "stylesheetSize": 1718028
+  },
+  {
+    "timestamp": "2026-02-02T03:39:18.447Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.428",
+    "loadTime": 2009824,
+    "scriptSize": 3161510,
+    "stylesheetSize": 1719067
+  },
+  {
+    "timestamp": "2026-02-03T05:54:52.623Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.429",
+    "loadTime": 2542580,
+    "scriptSize": 3159712,
+    "stylesheetSize": 1719170
+  },
+  {
+    "timestamp": "2026-02-04T06:26:38.274Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.430",
+    "loadTime": 1962657,
+    "scriptSize": 3161531,
+    "stylesheetSize": 1737665
+  },
+  {
+    "timestamp": "2026-02-05T06:09:04.945Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.431",
+    "loadTime": 2197183,
+    "scriptSize": 3162691,
+    "stylesheetSize": 1744781
+  },
+  {
+    "timestamp": "2026-02-06T07:59:46.817Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.432",
+    "loadTime": 2009211,
+    "scriptSize": 3172683,
+    "stylesheetSize": 1750744
+  },
+  {
+    "timestamp": "2026-02-09T01:27:07.749Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.433",
+    "loadTime": 2303732,
+    "scriptSize": 3167659,
+    "stylesheetSize": 1749268
+  },
+  {
+    "timestamp": "2026-02-10T04:55:33.871Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.434",
+    "loadTime": 2122201,
+    "scriptSize": 3165610,
+    "stylesheetSize": 1748555
+  },
+  {
+    "timestamp": "2026-02-11T07:12:25.086Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.435",
+    "loadTime": 2027644,
+    "scriptSize": 3170862,
+    "stylesheetSize": 1747128
+  },
+  {
+    "timestamp": "2026-02-12T05:04:57.903Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.436",
+    "loadTime": 2055509,
+    "scriptSize": 3174306,
+    "stylesheetSize": 1747128
+  },
+  {
+    "timestamp": "2026-02-13T06:32:25.690Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.437",
+    "loadTime": 2117993,
+    "scriptSize": 3176070,
+    "stylesheetSize": 1751370
+  },
+  {
+    "timestamp": "2026-02-13T20:39:19.864Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.438",
+    "loadTime": 1279157,
+    "scriptSize": 3178354,
+    "stylesheetSize": 1753902
+  },
+  {
+    "timestamp": "2026-02-20T07:24:37.626Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.439",
+    "loadTime": 2192877,
+    "scriptSize": 3176171,
+    "stylesheetSize": 1755496
+  },
+  {
+    "timestamp": "2026-02-23T07:59:37.096Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.440",
+    "loadTime": 2001281,
+    "scriptSize": 3178124,
+    "stylesheetSize": 1753850
+  },
+  {
+    "timestamp": "2026-02-24T08:07:38.544Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.441",
+    "loadTime": 2195410,
+    "scriptSize": 3178392,
+    "stylesheetSize": 1753330
+  },
+  {
+    "timestamp": "2026-02-25T07:33:15.176Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.442",
+    "loadTime": 2010213,
+    "scriptSize": 3183880,
+    "stylesheetSize": 1753121
+  },
+  {
+    "timestamp": "2026-02-26T08:35:41.411Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.443",
+    "loadTime": 2349620,
+    "scriptSize": 3183878,
+    "stylesheetSize": 1753231
+  },
+  {
+    "timestamp": "2026-02-26T15:39:55.999Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.444",
+    "loadTime": 2440692,
+    "scriptSize": 3164682,
+    "stylesheetSize": 1748938
+  },
+  {
+    "timestamp": "2026-03-03T11:02:01.107Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.445",
+    "loadTime": 2245237,
+    "scriptSize": 3165138,
+    "stylesheetSize": 1754845
+  },
+  {
+    "timestamp": "2026-03-05T07:12:43.457Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.446",
+    "loadTime": 2359744,
+    "scriptSize": 3165824,
+    "stylesheetSize": 1754123
+  },
+  {
+    "timestamp": "2026-03-06T05:36:01.068Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.447",
+    "loadTime": 2300082,
+    "scriptSize": 3166855,
+    "stylesheetSize": 1749158
+  },
+  {
+    "timestamp": "2026-03-09T08:58:52.975Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.448",
+    "loadTime": 2052144,
+    "scriptSize": 3169571,
+    "stylesheetSize": 1746948
+  },
+  {
+    "timestamp": "2026-03-10T06:25:32.961Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.449",
+    "loadTime": 2255378,
+    "scriptSize": 3169168,
+    "stylesheetSize": 1742969
+  },
+  {
+    "timestamp": "2026-03-11T07:13:50.860Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.450",
+    "loadTime": 2092502,
+    "scriptSize": 3180387,
+    "stylesheetSize": 1747762
+  },
+  {
+    "timestamp": "2026-03-11T09:25:06.886Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.451",
+    "loadTime": 2027253,
+    "scriptSize": 3183384,
+    "stylesheetSize": 1747515
+  },
+  {
+    "timestamp": "2026-03-14T10:32:13.755Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.452",
+    "loadTime": 2081212,
+    "scriptSize": 3184668,
+    "stylesheetSize": 1750465
+  },
+  {
+    "timestamp": "2026-03-17T06:12:25.610Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.453",
+    "loadTime": 2137436,
+    "scriptSize": 3184221,
+    "stylesheetSize": 1749850
+  },
+  {
+    "timestamp": "2026-03-18T06:07:42.045Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.454",
+    "loadTime": 2930562,
+    "scriptSize": 3362111,
+    "stylesheetSize": 1749326
+  },
+  {
+    "timestamp": "2026-03-19T07:27:41.626Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.455",
+    "loadTime": 2772132,
+    "scriptSize": 3360199,
+    "stylesheetSize": 1750925
+  },
+  {
+    "timestamp": "2026-03-20T07:39:50.948Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.456",
+    "loadTime": 2822793,
+    "scriptSize": 3358834,
+    "stylesheetSize": 1753035
+  },
+  {
+    "timestamp": "2026-03-23T08:30:09.070Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.457",
+    "loadTime": 2700003,
+    "scriptSize": 3359023,
+    "stylesheetSize": 1753035
+  },
+  {
+    "timestamp": "2026-03-24T08:25:33.739Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.458",
+    "loadTime": 2447243,
+    "scriptSize": 3364854,
+    "stylesheetSize": 1761058
+  },
+  {
+    "timestamp": "2026-03-25T08:36:57.881Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.459",
+    "loadTime": 2911812,
+    "scriptSize": 3364854,
+    "stylesheetSize": 1761058
+  },
+  {
+    "timestamp": "2026-03-27T07:33:43.104Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.460",
+    "loadTime": 2801398,
+    "scriptSize": 3374646,
+    "stylesheetSize": 1766529
+  },
+  {
+    "timestamp": "2026-03-30T08:14:13.118Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.461",
+    "loadTime": 3080112,
+    "scriptSize": 3373894,
+    "stylesheetSize": 1767499
+  },
+  {
+    "timestamp": "2026-03-31T09:08:39.170Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.462",
+    "loadTime": 3003804,
+    "scriptSize": 3380804,
+    "stylesheetSize": 1767603
+  },
+  {
+    "timestamp": "2026-04-02T07:24:03.833Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.463",
+    "loadTime": 3401146,
+    "scriptSize": 3374649,
+    "stylesheetSize": 1767873
+  },
+  {
+    "timestamp": "2026-04-07T07:15:20.811Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.464",
+    "loadTime": 3150224,
+    "scriptSize": 3372275,
+    "stylesheetSize": 1761552
+  },
+  {
+    "timestamp": "2026-04-08T06:54:52.824Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.465",
+    "loadTime": 2916174,
+    "scriptSize": 3373391,
+    "stylesheetSize": 1764512
+  },
+  {
+    "timestamp": "2026-04-09T03:21:44.825Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.466",
+    "loadTime": 2971666,
+    "scriptSize": 3372596,
+    "stylesheetSize": 1767608
+  },
+  {
+    "timestamp": "2026-04-09T08:10:40.331Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.467",
+    "loadTime": 3365608,
+    "scriptSize": 3372211,
+    "stylesheetSize": 1768811
+  },
+  {
+    "timestamp": "2026-04-10T10:39:45.621Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.468",
+    "loadTime": 3182428,
+    "scriptSize": 3372211,
+    "stylesheetSize": 1768811
+  },
+  {
+    "timestamp": "2026-04-11T03:29:48.676Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.469",
+    "loadTime": 3430372,
+    "scriptSize": 3374562,
+    "stylesheetSize": 1769520
+  },
+  {
+    "timestamp": "2026-04-12T01:46:20.248Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.470",
+    "loadTime": 4591094,
+    "scriptSize": 3374562,
+    "stylesheetSize": 1769454
+  },
+  {
+    "timestamp": "2026-04-14T01:44:06.870Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.471",
+    "loadTime": 2914788,
+    "scriptSize": 3374546,
+    "stylesheetSize": 1769454
+  },
+  {
+    "timestamp": "2026-04-15T05:48:31.372Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.472",
+    "loadTime": 2948706,
+    "scriptSize": 3375600,
+    "stylesheetSize": 1769454
+  },
+  {
+    "timestamp": "2026-04-16T07:13:56.806Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.473",
+    "loadTime": 2890443,
+    "scriptSize": 3373292,
+    "stylesheetSize": 1767218
+  },
+  {
+    "timestamp": "2026-04-17T05:00:55.138Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.474",
+    "loadTime": 2741350,
+    "scriptSize": 3369131,
+    "stylesheetSize": 1772260
+  },
+  {
+    "timestamp": "2026-04-17T09:01:41.846Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.475",
+    "loadTime": 3055444,
+    "scriptSize": 3369975,
+    "stylesheetSize": 1771356
+  },
+  {
+    "timestamp": "2026-04-21T06:29:33.273Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.476",
+    "loadTime": 2984500,
+    "scriptSize": 3370750,
+    "stylesheetSize": 1781875
+  },
+  {
+    "timestamp": "2026-04-22T06:20:51.926Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.477",
+    "loadTime": 2817983,
+    "scriptSize": 3368735,
+    "stylesheetSize": 1782347
+  },
+  {
+    "timestamp": "2026-04-23T07:15:46.367Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.478",
+    "loadTime": 2892671,
+    "scriptSize": 3368671,
+    "stylesheetSize": 1782353
+  },
+  {
+    "timestamp": "2026-04-24T09:09:45.103Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.479",
+    "loadTime": 3614936,
+    "scriptSize": 3374810,
+    "stylesheetSize": 1783790
+  },
+  {
+    "timestamp": "2026-04-29T11:13:02.661Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.1.480",
+    "loadTime": 4535620,
+    "scriptSize": 3373272,
+    "stylesheetSize": 1784762
+  },
+  {
+    "timestamp": "2026-05-04T06:45:19.642Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.0",
+    "loadTime": 3484265,
+    "scriptSize": 3385819,
+    "stylesheetSize": 1803628
+  },
+  {
+    "timestamp": "2026-05-05T07:47:59.189Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.1",
+    "loadTime": 3255037,
+    "scriptSize": 3387205,
+    "stylesheetSize": 1801912
+  },
+  {
+    "timestamp": "2026-05-07T01:49:04.078Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.2",
+    "loadTime": 3325923,
+    "scriptSize": 3401924,
+    "stylesheetSize": 1798356
+  },
+  {
+    "timestamp": "2026-05-08T12:46:06.826Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.3",
+    "loadTime": 3140653,
+    "scriptSize": 3401654,
+    "stylesheetSize": 1797724
+  },
+  {
+    "timestamp": "2026-05-12T06:28:34.562Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.4",
+    "loadTime": 3364157,
+    "scriptSize": 3463430,
+    "stylesheetSize": 1814823
+  },
+  {
+    "timestamp": "2026-05-13T07:08:37.818Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.5",
+    "loadTime": 3235659,
+    "scriptSize": 3463341,
+    "stylesheetSize": 1814615
+  },
+  {
+    "timestamp": "2026-05-14T07:14:36.321Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.6",
+    "loadTime": 3489051,
+    "scriptSize": 3455530,
+    "stylesheetSize": 1794757
+  },
+  {
+    "timestamp": "2026-05-15T08:25:21.774Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.7",
+    "loadTime": 3196626,
+    "scriptSize": 3454707,
+    "stylesheetSize": 1794990
+  },
+  {
+    "timestamp": "2026-05-18T04:54:03.568Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.8",
+    "loadTime": 2968446,
+    "scriptSize": 3453987,
+    "stylesheetSize": 1794902
+  },
+  {
+    "timestamp": "2026-05-19T04:51:02.101Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.9",
+    "loadTime": 2834195,
+    "scriptSize": 3538233,
+    "stylesheetSize": 1803730
+  },
+  {
+    "timestamp": "2026-05-20T06:26:19.055Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.10",
+    "loadTime": 2511603,
+    "scriptSize": 3536979,
+    "stylesheetSize": 1804032
+  },
+  {
+    "timestamp": "2026-05-20T08:52:34.074Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.11",
+    "loadTime": 3077560,
+    "scriptSize": 3537697,
+    "stylesheetSize": 1804038
+  },
+  {
+    "timestamp": "2026-05-22T06:23:22.135Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.12",
+    "loadTime": 2551881,
+    "scriptSize": 3537778,
+    "stylesheetSize": 1811535
+  },
+  {
+    "timestamp": "2026-05-26T01:10:49.228Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.13",
+    "loadTime": 3083753,
+    "scriptSize": 3534409,
+    "stylesheetSize": 1812753
+  },
+  {
+    "timestamp": "2026-05-28T06:26:31.611Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.14",
+    "loadTime": 3065134,
+    "scriptSize": 3543383,
+    "stylesheetSize": 1812974
+  },
+  {
+    "timestamp": "2026-05-29T04:24:23.830Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.15",
+    "loadTime": 2665424,
+    "scriptSize": 3540686,
+    "stylesheetSize": 1813437
+  },
+  {
+    "timestamp": "2026-06-02T03:51:00.120Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.16",
+    "loadTime": 2937271,
+    "scriptSize": 3538388,
+    "stylesheetSize": 1808193
+  },
+  {
+    "timestamp": "2026-06-03T07:23:30.134Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.17",
+    "loadTime": 2749240,
+    "scriptSize": 3538062,
+    "stylesheetSize": 1809639
+  },
+  {
+    "timestamp": "2026-06-04T05:47:06.982Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.18",
+    "loadTime": 3084176,
+    "scriptSize": 3590407,
+    "stylesheetSize": 1809990
+  },
+  {
+    "timestamp": "2026-06-08T08:41:33.701Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.19",
+    "loadTime": 2871688,
+    "scriptSize": 3589157,
+    "stylesheetSize": 1807010
+  },
+  {
+    "timestamp": "2026-06-09T08:47:20.804Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.20",
+    "loadTime": 3209927,
+    "scriptSize": 3586749,
+    "stylesheetSize": 1801608
+  },
+  {
+    "timestamp": "2026-06-10T05:06:30.430Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.21",
+    "loadTime": 2820456,
+    "scriptSize": 3574642,
+    "stylesheetSize": 1800125
+  },
+  {
+    "timestamp": "2026-06-12T05:20:03.473Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.22",
+    "loadTime": 3003322,
+    "scriptSize": 3574668,
+    "stylesheetSize": 1788905
+  },
+  {
+    "timestamp": "2026-06-16T08:16:24.096Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.23",
+    "loadTime": 2968595,
+    "scriptSize": 3577036,
+    "stylesheetSize": 1788303
+  },
+  {
+    "timestamp": "2026-06-17T04:00:35.320Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.24",
+    "loadTime": 2921162,
+    "scriptSize": 3574066,
+    "stylesheetSize": 1784529
+  },
+  {
+    "timestamp": "2026-06-17T07:37:11.343Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.25",
+    "loadTime": 3154919,
+    "scriptSize": 3573797,
+    "stylesheetSize": 1784529
+  },
+  {
+    "timestamp": "2026-06-18T05:25:09.225Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.26",
+    "loadTime": 2865065,
+    "scriptSize": 3575838,
+    "stylesheetSize": 1786052
+  },
+  {
+    "timestamp": "2026-06-19T07:40:23.982Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.27",
+    "loadTime": 2976186,
+    "scriptSize": 3574758,
+    "stylesheetSize": 1786052
+  },
+  {
+    "timestamp": "2026-06-23T07:35:41.270Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.28",
+    "loadTime": 3078598,
+    "scriptSize": 3577851,
+    "stylesheetSize": 1789124
+  },
+  {
+    "timestamp": "2026-06-24T06:15:21.025Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.29",
+    "loadTime": 3370848,
+    "scriptSize": 3439243,
+    "stylesheetSize": 1789040
+  },
+  {
+    "timestamp": "2026-06-25T08:49:25.756Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.30",
+    "loadTime": 2994638,
+    "scriptSize": 3437160,
+    "stylesheetSize": 1786250
+  },
+  {
+    "timestamp": "2026-06-25T09:58:27.492Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.32",
+    "loadTime": 3377445,
+    "scriptSize": 3437684,
+    "stylesheetSize": 1787401
+  },
+  {
+    "timestamp": "2026-06-26T08:46:01.409Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.33",
+    "loadTime": 2888783,
+    "scriptSize": 3434463,
+    "stylesheetSize": 1787792
+  },
+  {
+    "timestamp": "2026-06-30T04:55:34.031Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.34",
+    "loadTime": 3344709,
+    "scriptSize": 3437413,
+    "stylesheetSize": 1787792
+  },
+  {
+    "timestamp": "2026-07-03T05:03:24.811Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.35",
+    "loadTime": 3177769,
+    "scriptSize": 3439450,
+    "stylesheetSize": 1791679
+  },
+  {
+    "timestamp": "2026-07-03T15:23:16.008Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.36",
+    "loadTime": 3057038,
+    "scriptSize": 3447168,
+    "stylesheetSize": 1791641
+  },
+  {
+    "timestamp": "2026-07-08T04:31:37.259Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.37",
+    "loadTime": 3018429,
+    "scriptSize": 3445842,
+    "stylesheetSize": 1790097
+  },
+  {
+    "timestamp": "2026-07-09T05:08:41.068Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.38",
+    "loadTime": 3185403,
+    "scriptSize": 3447368,
+    "stylesheetSize": 1795646
+  },
+  {
+    "timestamp": "2026-07-10T00:15:40.181Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.40",
+    "loadTime": 3533914,
+    "scriptSize": 3438428,
+    "stylesheetSize": 1798704
+  },
+  {
+    "timestamp": "2026-07-13T07:31:11.009Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.41",
+    "loadTime": 3177790,
+    "scriptSize": 3545834,
+    "stylesheetSize": 1801030
+  },
+  {
+    "timestamp": "2026-07-15T05:53:25.483Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.42",
+    "loadTime": 2871817,
+    "scriptSize": 3550167,
+    "stylesheetSize": 1800711
+  },
+  {
+    "timestamp": "2026-07-17T04:21:07.226Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.43",
+    "loadTime": 3265460,
+    "scriptSize": 3550615,
+    "stylesheetSize": 1792632
+  },
+  {
+    "timestamp": "2026-07-21T07:04:38.819Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.44",
+    "loadTime": 2891920,
+    "scriptSize": 3554368,
+    "stylesheetSize": 1793843
+  },
+  {
+    "timestamp": "2026-07-23T07:15:31.222Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.45",
+    "loadTime": 3299317,
+    "scriptSize": 3555820,
+    "stylesheetSize": 1799999
+  },
+  {
+    "timestamp": "2026-07-27T04:56:18.065Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.46",
+    "loadTime": 2993613,
+    "scriptSize": 3559232,
+    "stylesheetSize": 1800478
+  },
+  {
+    "timestamp": "2026-07-29T01:02:49.863Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.47",
+    "loadTime": 3375572,
+    "scriptSize": 3559389,
+    "stylesheetSize": 1798483
+  },
+  {
+    "timestamp": "2026-07-30T01:03:24.933Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.48",
+    "loadTime": 3356776,
+    "scriptSize": 3994325,
+    "stylesheetSize": 1798900
+  },
+  {
+    "timestamp": "2026-08-03T01:09:19.122Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.49",
+    "loadTime": 4007382,
+    "scriptSize": 3566004,
+    "stylesheetSize": 1800215
+  },
+  {
+    "timestamp": "2026-08-04T04:27:09.501Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.50",
+    "loadTime": 3016140,
+    "scriptSize": 3561913,
+    "stylesheetSize": 1798537
+  },
+  {
+    "timestamp": "2026-08-06T04:23:45.705Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.51",
+    "loadTime": 3107653,
+    "scriptSize": 3560202,
+    "stylesheetSize": 1792464
+  },
+  {
+    "timestamp": "2026-08-07T06:15:34.572Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.52",
+    "loadTime": 2842356,
+    "scriptSize": 3557352,
+    "stylesheetSize": 1792029
+  },
+  {
+    "timestamp": "2026-08-12T06:23:48.232Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.53",
+    "loadTime": 3017311,
+    "scriptSize": 3557065,
+    "stylesheetSize": 1791903
+  },
+  {
+    "timestamp": "2026-08-13T06:43:41.860Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.54",
+    "loadTime": 2920587,
+    "scriptSize": 3551728,
+    "stylesheetSize": 1796204
+  },
+  {
+    "timestamp": "2026-08-14T05:03:35.811Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.55",
+    "loadTime": 3013505,
+    "scriptSize": 3551218,
+    "stylesheetSize": 1797669
+  },
+  {
+    "timestamp": "2026-08-17T05:29:10.869Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.56",
+    "loadTime": 3454618,
+    "scriptSize": 3551662,
+    "stylesheetSize": 1799956
+  },
+  {
+    "timestamp": "2026-08-18T06:58:36.472Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.57",
+    "loadTime": 9313525,
+    "scriptSize": 3549859,
+    "stylesheetSize": 1802523
+  },
+  {
+    "timestamp": "2026-08-19T04:31:59.928Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.58",
+    "loadTime": 2887339,
+    "scriptSize": 3551456,
+    "stylesheetSize": 1792861
+  },
+  {
+    "timestamp": "2026-08-25T05:51:48.735Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.59",
+    "loadTime": 4779236,
+    "scriptSize": 3952136,
+    "stylesheetSize": 1786088
+  },
+  {
+    "timestamp": "2026-08-25T15:53:07.237Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.60",
+    "loadTime": 3634520,
+    "scriptSize": 3544128,
+    "stylesheetSize": 1786965
+  },
+  {
+    "timestamp": "2026-08-27T02:12:13.139Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.62",
+    "loadTime": 3242735,
+    "scriptSize": 3549769,
+    "stylesheetSize": 1788271
+  },
+  {
+    "timestamp": "2026-08-28T06:20:58.927Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.63",
+    "loadTime": 2973379,
+    "scriptSize": 3552473,
+    "stylesheetSize": 1783920
+  },
+  {
+    "timestamp": "2026-08-28T18:51:28.794Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.64",
+    "loadTime": 2855725,
+    "scriptSize": 3564350,
+    "stylesheetSize": 1789565
+  },
+  {
+    "timestamp": "2026-09-02T05:46:55.772Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.65",
+    "loadTime": 3239037,
+    "scriptSize": 3564355,
+    "stylesheetSize": 1789770
+  },
+  {
+    "timestamp": "2026-09-03T05:12:14.513Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.66",
+    "loadTime": 2772277,
+    "scriptSize": 3563469,
+    "stylesheetSize": 1791557
+  },
+  {
+    "timestamp": "2026-09-04T04:46:24.647Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.67",
+    "loadTime": 2523583,
+    "scriptSize": 3562682,
+    "stylesheetSize": 1791557
+  },
+  {
+    "timestamp": "2026-09-05T17:43:10.754Z",
+    "url": "https://www.bandlab.com/",
+    "version": "10.2.68",
+    "loadTime": 2848713,
+    "scriptSize": 3548251,
+    "stylesheetSize": 1790207
+  }
+]
